@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5ba5cf436989942b7ed791faf4eacf, type: 3}
+  m_Name: TestDeck_FullHouse
+  m_EditorClassIdentifier: 
+  _cards: []
+  _player1Deck: {fileID: 11400000, guid: a6c47004d51d96d4ea9294a43e7183f3, type: 2}
+  _player2Deck: {fileID: 11400000, guid: 979a16e03f4e39b4f94a1f4f17c9cc7e, type: 2}
+  _player3Deck: {fileID: 11400000, guid: c891557c6c1b8f74a9ee2d44963c1fc6, type: 2}
+  _player4Deck: {fileID: 11400000, guid: a2e81304e9d03cb4d8ed18a1ff02b2be, type: 2}
